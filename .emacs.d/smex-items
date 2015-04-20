@@ -1,0 +1,22 @@
+
+;; ----- smex-history -----
+(
+ goto-line
+ minimap-toggle
+ php-mode
+ package-list-packages
+ package-install
+ load-theme
+ disable-theme
+)
+
+;; ----- smex-data -----
+(
+ (package-list-packages . 4)
+ (disable-theme . 3)
+ (load-theme . 4)
+ (package-install . 6)
+ (minimap-toggle . 6)
+ (php-mode . 1)
+ (goto-line . 2)
+)

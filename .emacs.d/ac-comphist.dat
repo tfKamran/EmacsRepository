@@ -1,0 +1,22 @@
+((("$private" .
+   [1 0 0 0 0 0 0 0])
+  ("json_encode" .
+   [0 0 0 0 0 1 0 0 0 0 0])
+  ("set-cursor-color" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("set-default" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("cursor-type" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("require" .
+   [0 0 0 1 0 0 0])
+  ("alpha" .
+   [1 0 0 0 0])
+  ("powerline-center-evil-theme" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("setq" .
+   [1 0 0 0])
+  ("powerline-zigzag-left" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("powerline-default-separator" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])))
